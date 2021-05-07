@@ -1,4 +1,4 @@
-# Prediciting Brazilian music from Spotify Playlists with Unsupervised Machine Learning
+## Prediciting Brazilian music from Spotify Playlists with Unsupervised Machine Learning
 A project by [Francisco Ebeling](https://github.com/ebelingbarros).
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/pic06brasil.jpg)
