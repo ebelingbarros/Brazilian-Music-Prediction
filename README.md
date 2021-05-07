@@ -26,7 +26,7 @@ Building on 8 features from Spotify registered songs (danceability,	energy,	loud
 
 ## Some visualizations
 
-The following 4 plots display charactersitics of the 235 songs from the sample. Songs 1 to 65 are from the genre "Sertanejo", 66 to 115 from the genre "Funk", 116 to 118 from "pagode" and 186-235 from the genre "pop". As can be seen, there is clear evidence that the genres "Funk" and "Pop" are the more danceable ones. The more energetic songs are from the Sertanejo and Funk genres, but some of the first song's are less energetic. This probably reflects the fact that they are more romantic songs. The "loudness" plot shows that while Funk songs are the loudest, those from Pagode are quieter.
+The following 4 plots display charactersitics of the 235 songs from the sample. Songs 1 to 65 are from the genre "Sertanejo", 66 to 115 from the genre "Funk", 116 to 118 from "pagode" and 186-235 from the genre "pop". As can be seen, there is clear evidence that the genres "Funk" and "Pop" are the more danceable ones. The more energetic songs are from the Sertanejo and Funk genres, but some of the first's songs are less energetic. This probably reflects the fact that they are more romantic songs. The "loudness" plot shows that while Funk songs are the loudest, those from Pagode are quieter.
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/feats_music.png)
 
