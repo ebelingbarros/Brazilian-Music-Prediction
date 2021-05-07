@@ -26,17 +26,12 @@ After our first approach, we finetuned the model to increase the precision of ou
 After our analysis was completed, we delivered our insights in a 5-minute presentation, focussing on the business implications of our results. 
 
 ## The files
-- Slides with the business implications: [Here](https://docs.google.com/presentation/d/1mR-rkAEYC1kN9f_6xhFMIaHyXNbBA2OWy5GpS1C8iw8/edit#slide=id.gc59bf226dc_0_2)
+- Slides with the business implications: [Here](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/gathering_playlists.ipynb)
 - A live presentation of our conclusions: Recorded and uploaded later to the repo
 - Questions and answers using SQL: [SQL_File](https://github.com/Caparisun/Linear_Regression_Project/blob/master/SQL_Files/Regression%20project.sql) and the [solutions](https://github.com/Caparisun/Linear_Regression_Project/blob/master/SQL_Files/README.md)
 - A Tableau dashboard: [Story](https://public.tableau.com/profile/federico.giuliani#!/vizhome/Mid_Project_Data/StoryProject?publish=yes) and [solutions](https://github.com/Caparisun/Linear_Regression_Project/blob/master/Tableau/readme.md)
 - Exploration of the data: [Jupyter Notebook](https://github.com/Caparisun/Linear_Regression_Project/blob/master/Notebooks_and_data/1.basic_data_exploration.ipynb)
-- Data cleaning and wrangling: [Jupyter Notebook](https://github.com/Caparisun/Linear_Regression_Project/blob/master/Notebooks_and_data/2.Datawrangling.ipynb)
-- Applying the models: [Jupyter Notebook](https://github.com/Caparisun/Linear_Regression_Project/blob/master/Notebooks_and_data/3.Applying_Model.ipynb)
-- Applying the same models to a normalized data frame [Jupyter Notebook](https://github.com/Caparisun/Linear_Regression_Project/blob/master/Notebooks_and_data/5.applying_model_norm.ipynb)
-- Refinement of the first model, exploring multiple different wrangling approaches [Jupyter Notebook](https://github.com/Caparisun/Linear_Regression_Project/blob/master/Notebooks_and_data/6.Refinement.ipynb)
 
-We will provide a quick summary of the solutions further below, but first, we want to outline our process.
 
 ## Visualizations and results
 
