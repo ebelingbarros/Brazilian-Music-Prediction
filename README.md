@@ -1,7 +1,7 @@
-# Prediciting Real Estate Prices With Machine Learning
-A project by [Francisco Ebeling](https://github.com/ebelingbarros), [Federico Giuliani](https://github.com/FedericoGi) and [Thamo Koeper](https://github.com/Caparisun).
+# Prediciting Brazilian music from Spotify Playlists with Unsupervised Machine Learning
+A project by [Francisco Ebeling](https://github.com/ebelingbarros).
 
-![Picture](https://github.com/Caparisun/data_mid_bootcamp_project_regression/blob/master/Pictures/real-state-project.jpg)
+![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/pic06brasil.jpg)
 
 # Contents:
 
