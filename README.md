@@ -34,7 +34,7 @@ The following graph plots the clusters found by the model:
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/histogram.png)
 
-In this Tableau visualization, 
+In this Tableau visualization, the features "energy" and "danceability" are plotted according to the respective clusters.
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/tableau_viz.png)
 
