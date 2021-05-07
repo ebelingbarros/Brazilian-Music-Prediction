@@ -40,9 +40,12 @@ We will provide a quick summary of the solutions further below, but first, we wa
 
 ## Visualizations and results
 
+![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/feats_music.png)
+
+
+![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/histogram.png)
+
+
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/tableau_viz.png)
-
-
-
 
 
