@@ -34,7 +34,7 @@ The following graph plots the number of musics in every cluster found by the mod
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/histogram.png)
 
-In this Tableau visualization, the features "energy" and "danceability" are plotted according to the respective clusters.
+In this Tableau visualization, the features "energy" and "danceability" are plotted according to the respective clusters. You can access it [here](https://public.tableau.com/views/Brazilianmusicprediction-featuresclustered/Story1?:language=de&:display_count=y&publish=yes&:origin=viz_share_link) 
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/tableau_viz.png)
 
