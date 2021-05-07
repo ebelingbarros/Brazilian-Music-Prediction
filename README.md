@@ -13,7 +13,7 @@ A project by [Francisco Ebeling](https://github.com/ebelingbarros).
 
 
 ## The project
-In this project, a music predictor for musics from Spotify playlists for Braziliam music is developed building on an unsupervised Machine Learning model. Playlist information from Spotify's is gathered for four musical genres (Sertanejo, Funk, Pagode, Pop), and is used as input for an unsupervised Klearn machine learning modelling. 
+In this project, a music predictor for musics from Spotify playlists for Braziliam music is developed building on an unsupervised Machine Learning model. Playlist information from Spotify's is gathered for four musical genres (Sertanejo, Funk, Pagode, Pop), and is used as input for an unsupervised Klearn machine learning model. 
 Building on 8 features from Spotify registered songs (danceability,	energy,	loudness,	speechiness,	acousticness,	instrumentalness,	liveness and valence) plus a genre dummy, 20 clusters are generated. This input is transformed into a .csv file that is used as data for a music predictor. In what follows the files generated throughout the process and some insights drawn from graphs are presented, one of which from Tableau.
 
 ## The files
