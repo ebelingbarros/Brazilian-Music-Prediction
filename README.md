@@ -7,7 +7,7 @@ A project by [Francisco Ebeling](https://github.com/ebelingbarros).
 
 - [The project](#The_project)
 - [The files](#The-files)
-- [Visualizations and results](#Visualizations-and-results)
+- [Some visualizations](#Some visualizations)
 
 ***
 
@@ -24,7 +24,7 @@ Building on 8 features from Spotify registered songs (danceability,	energy,	loud
 - A Tableau dashboard with graphs: [Story](https://public.tableau.com/views/Brazilianmusicprediction-featuresclustered/Story1?:language=de&:display_count=y&publish=yes&:origin=viz_share_link) 
 
 
-## Visualizations and results
+## Some visualizations
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/feats_music.png)
 
