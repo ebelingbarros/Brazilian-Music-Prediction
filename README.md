@@ -5,7 +5,7 @@ A project by [Francisco Ebeling](https://github.com/ebelingbarros).
 
 ## Contents:
 
-- [The project](#The-project)
+- [The project](#The_project)
 - [The files](#The-files)
 - [Results](#Results)
 
@@ -38,16 +38,13 @@ After our analysis was completed, we delivered our insights in a 5-minute presen
 
 We will provide a quick summary of the solutions further below, but first, we want to outline our process.
 
-## Results
-
-Our Process in a picture: 
+## Visualizations and results
 
 ![Picture](https://github.com/Caparisun/data_mid_bootcamp_project_regression/blob/master/Pictures/Process.jpg)
 
-It was important to us to keep a flexible structure and an agile approach, to be able to handle bugs and errors that occurred during the process, since we were unfamiliar with the data.
 
-To achieve this we set up a Trello board and tracked the tasks and our progress, the final board can be viewed [here](https://trello.com/b/8Yu5xqIA/fleur-delacour).
+%%html
+<div class='tableauPlaceholder' id='viz1620387883133' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Br&#47;Brazilianmusicprediction-featuresclustered&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Brazilianmusicprediction-featuresclustered&#47;Story1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Br&#47;Brazilianmusicprediction-featuresclustered&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='de' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1620387883133');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='1014px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-The workflow and division of tasks came very naturally to the group since we could apply our strengths individually.
 
 
