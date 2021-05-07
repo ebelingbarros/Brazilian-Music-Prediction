@@ -7,7 +7,7 @@ A project by [Francisco Ebeling](https://github.com/ebelingbarros).
 
 - [The project](#The_project)
 - [The files](#The-files)
-- [Some visualizations](#Some visualizations)
+- [Some visualizations](#Some-visualizations)
 
 ***
 
