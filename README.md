@@ -30,7 +30,7 @@ The following 4 plots display charactersitics of the 235 songs from the sample. 
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/feats_music.png)
 
-The following graph plots the clusters found by the model:
+The following graph plots the number of musics in every cluster found by the model:
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/histogram.png)
 
