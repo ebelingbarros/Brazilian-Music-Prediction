@@ -3,9 +3,9 @@ A project by [Francisco Ebeling](https://github.com/ebelingbarros).
 
 ![Picture](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/pic06brasil.jpg)
 
-# Contents:
+## Contents:
 
-- [Introduction](#Introduction-to-the-project-and-tools-used)
+- [Introduction and scope](#Introduction-to-the-project-and-tools-used)
 - [Deliverables](#Deliverables)
 - [Method and approach](#Method-and-approach)
 - [Initial insights](#Insights-into-the-data)
