@@ -26,11 +26,11 @@ After our first approach, we finetuned the model to increase the precision of ou
 After our analysis was completed, we delivered our insights in a 5-minute presentation, focussing on the business implications of our results. 
 
 ## The files
-- Slides with the business implications: [Here](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/gathering_playlists.ipynb)
-- A live presentation of our conclusions: Recorded and uploaded later to the repo
-- Questions and answers using SQL: [SQL_File](https://github.com/Caparisun/Linear_Regression_Project/blob/master/SQL_Files/Regression%20project.sql) and the [solutions](https://github.com/Caparisun/Linear_Regression_Project/blob/master/SQL_Files/README.md)
-- A Tableau dashboard: [Story](https://public.tableau.com/profile/federico.giuliani#!/vizhome/Mid_Project_Data/StoryProject?publish=yes) and [solutions](https://github.com/Caparisun/Linear_Regression_Project/blob/master/Tableau/readme.md)
-- Exploration of the data: [Jupyter Notebook](https://github.com/Caparisun/Linear_Regression_Project/blob/master/Notebooks_and_data/1.basic_data_exploration.ipynb)
+- Gathering playlist songs from Spotify's API: [Jupyter Notebook](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/gathering_playlists.ipynb)
+- Unsupervised clustering model: [Jupyter Notebook](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/model_unsupervised.ipynb) 
+- The music recommender: [Jupyter Notebook](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/music_recommender.ipynb) 
+- Some insights through data visualizations: [Jupyter Notebook](https://github.com/ebelingbarros/Brazilian-Music-Prediction/blob/main/data_insights.ipynb) 
+- A Tableau dashboard: [Story](https://public.tableau.com/views/Brazilianmusicprediction-featuresclustered/Story1?:language=de&:display_count=y&publish=yes&:origin=viz_share_link) 
 
 
 ## Visualizations and results
